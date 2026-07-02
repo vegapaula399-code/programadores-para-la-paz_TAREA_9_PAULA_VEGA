@@ -1,0 +1,16 @@
+# Conceptos Básicos del Servidor
+
+## Sistema Operativo
+Es el software principal que administra los recursos del computador y permite ejecutar programas y aplicaciones.
+
+## Node.js
+Es un entorno de ejecución que permite ejecutar código JavaScript fuera del navegador, especialmente para crear servidores y aplicaciones web.
+
+## Aplicación server.js
+Es el archivo principal que contiene el código del servidor y define cómo responder a las solicitudes de los usuarios.
+
+## Puerto
+Es un canal de comunicación que utiliza el servidor para recibir y enviar información. Cada servicio puede funcionar en un puerto específico, como el puerto 3000.
+
+## Logs
+Son archivos o registros que almacenan información sobre la actividad del servidor, incluyendo accesos, errores y eventos importantes para el monitoreo y mantenimiento del sistema.
